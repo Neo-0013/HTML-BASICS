@@ -10,8 +10,3 @@ This repo contains beginner-friendly HTML projects created while practicing and 
 - **Bookstore Page (`bookstore.html`)**  
   A simple webpage showcasing books with "Buy Now" buttons and checkout options.
 - More projects will be added as I continue learning and experimenting with HTML.
-
-## 🚀 How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Neo-0013/HTML-BASICS.git
